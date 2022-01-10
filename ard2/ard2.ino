@@ -5,5 +5,7 @@ void setup() {
 }
 
 void loop() {
+ Serial.println("hello from Arduino UNO");
+ delay(1000);
   
 }
